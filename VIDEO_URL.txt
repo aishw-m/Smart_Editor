@@ -1,0 +1,32 @@
+TBD — fill in the walkthrough video URL before submitting.
+
+Suggested walkthrough flow (aim for 3–5 minutes):
+
+  1. Sign in as the first user (e.g. alice@example.com).
+  2. Click "New document" — show it opens in the editor.
+  3. Rename the doc by clicking the title; type a new name.
+  4. Demonstrate rich-text formatting: bold, italic, underline, an H1,
+     a bulleted list, a numbered list. Show autosave indicator changing
+     from "Saving…" to "All changes saved".
+  5. Go back to dashboard, click "Upload", drop in a .md file
+     (or .docx). Show that it becomes a new editable document with
+     formatting preserved.
+  6. Click "Share". Add a second email (e.g. bob@example.com) with
+     "Can edit". Close dialog.
+  7. Open a private/incognito window. Sign in as bob@example.com.
+     Show the doc appears under "Shared with you" with the owner's
+     email and "edit" badge.
+  8. Edit the shared doc as Bob; switch back to Alice's tab and refresh
+     to show Bob's edit appears (no real-time sync — this is request/
+     response persistence, intentionally).
+  9. Optionally: as Alice, change Bob's permission to "view" and show
+     that Bob's editor toolbar disables.
+ 10. Briefly mention the README, architecture note, and tests.
+
+Recording tools that work well:
+  - Loom (free tier covers this comfortably)
+  - QuickTime (Cmd+Shift+5 on macOS)
+  - OBS Studio (cross-platform, free)
+
+Once recorded and uploaded, replace this entire file with just the URL
+on a single line.

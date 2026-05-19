@@ -1,0 +1,14 @@
+node_modules
+.next
+out
+dist
+.env
+.env.local
+local.db
+local.db-journal
+test-*.db
+*.sqlite
+*.log
+.DS_Store
+coverage
+_testenv/
